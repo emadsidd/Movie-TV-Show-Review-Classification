@@ -1,7 +1,4 @@
-# Movie-TV-Show-Review-Classification
-
----
-title: "Movie and TV Show Review Classification with Logistic Regression"
+# Movie and TV Show Review Classification with Logistic Regression
 ---
 
 ## Task
